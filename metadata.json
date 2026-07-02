@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel FinTech AI",
+  "description": "High-performance real-time transaction security dashboard and fraud prevention engine featuring server-side Gemini forensic audit capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
